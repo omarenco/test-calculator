@@ -1,0 +1,14 @@
+body {
+  background: orange;
+}
+.input_result {
+  background-color: #acff38;
+  color: #467702;
+  border: 1px solid #454545;
+  width: 130px;
+  height: 50px;
+  font-family: Arial, Helvetica;
+  font-size: 2rem;
+  line-height: 26 px;
+  text-align: right;
+}
